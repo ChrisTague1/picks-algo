@@ -1,0 +1,17 @@
+id,start_time,spread,over_under,is_finished,venue_name,venue_address,neutral_site,week_id
+401671664,2024-09-08T20:05:00+00:00,SEA -6,41.5,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-1
+401671761,2024-09-08T20:25:00+00:00,CLE -2.5,40.5,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-1
+401671770,2024-09-08T20:25:00+00:00,TB -3.5,43.5,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-1
+401671792,2024-09-09T00:20:00+00:00,DET -3.5,50.5,False,Ford Field,"Detroit, MI",False,nfl-2024-week-1
+401671696,2024-09-10T00:20:00+00:00,SF -4.5,43.5,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-1
+401671789,2024-09-06T00:20:00+00:00,KC -3,47.5,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-1
+401671805,2024-09-07T00:15:00+00:00,PHI -2.5,49.5,False,Corinthians Arena,Sao Paulo,True,nfl-2024-week-1
+401671744,2024-09-08T17:00:00+00:00,ATL -3.5,41.5,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-1
+401671617,2024-09-08T17:00:00+00:00,BUF -6.5,48.5,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-1
+401671719,2024-09-08T17:00:00+00:00,CHI -4,44.5,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-1
+401671628,2024-09-08T17:00:00+00:00,CIN -8.5,40.5,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-1
+401671861,2024-09-08T17:00:00+00:00,HOU -3,48.5,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-1
+401671849,2024-09-08T17:00:00+00:00,MIA -3.5,48.5,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-1
+401671734,2024-09-08T17:00:00+00:00,NO -4,41.5,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-1
+401671712,2024-09-08T17:00:00+00:00,MIN -1.5,41.5,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-1
+401671659,2024-09-08T20:05:00+00:00,LAC -3,40.5,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-1
