@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from scipy.optimize import linear_sum_assignment
+from scipy.stats import norm
 
 def preprocess_data(csv_file):
     df = pd.read_csv(csv_file)
@@ -15,50 +16,57 @@ def estimate_win_probabilities(df):
     return probabilities
 
 def optimize_picks(probabilities, num_games):
-    # Introduce some randomness to deviate from pure auto-pick
-    noise = np.random.normal(0, 0.05, len(probabilities))
-    adjusted_probs = np.clip(probabilities + noise, 0, 1)
+    # Calculate expected value and standard deviation for each game
+    expected_values = probabilities * np.arange(num_games, 0, -1)
+    std_devs = np.sqrt(probabilities * (1 - probabilities) * np.arange(num_games, 0, -1)**2)
     
-    cost_matrix = np.outer(1 - adjusted_probs, range(1, num_games + 1))
+    # Calculate the probability of each pick being in the top 10% of scores
+    top_10_probs = 1 - norm.cdf(np.percentile(expected_values, 90), expected_values, std_devs)
+    
+    # Create cost matrix based on top 10% probabilities
+    cost_matrix = -np.outer(top_10_probs, range(1, num_games + 1))
+    
     row_ind, col_ind = linear_sum_assignment(cost_matrix)
     optimized_picks = list(zip(row_ind, col_ind + 1))
     optimized_picks.sort(key=lambda x: x[1], reverse=True)
     return optimized_picks
 
-def simulate_week(probabilities, picks, num_simulations=10000):
-    auto_pick_scores = []
-    optimized_scores = []
+def simulate_week(probabilities, picks, num_simulations=10000, num_players=100):
     num_games = len(probabilities)
+    all_scores = []
+    optimized_scores = []
     
     for _ in range(num_simulations):
         outcomes = np.random.random(num_games) < probabilities
         
-        # Simulate auto-picks with random changes
-        auto_picks = sorted(enumerate(probabilities), key=lambda x: x[1], reverse=True)
-        auto_picks = [(game, num_games - i) for i, (game, _) in enumerate(auto_picks)]
+        # Simulate other players
+        for _ in range(num_players):
+            auto_picks = sorted(enumerate(probabilities), key=lambda x: x[1], reverse=True)
+            auto_picks = [(game, num_games - i) for i, (game, _) in enumerate(auto_picks)]
+            
+            # Introduce random changes
+            if np.random.random() < 0.8:  # 80% chance of making changes
+                num_changes = np.random.randint(1, 5)  # Make 1-4 changes
+                for _ in range(num_changes):
+                    i, j = np.random.choice(len(auto_picks), 2, replace=False)
+                    auto_picks[i], auto_picks[j] = auto_picks[j], auto_picks[i]
+            
+            score = sum(conf for game, conf in auto_picks if outcomes[game])
+            all_scores.append(score)
         
-        # Introduce random changes to auto-picks
-        if np.random.random() < 0.7:  # 70% chance of making changes
-            num_changes = np.random.randint(1, 4)  # Make 1-3 changes
-            for _ in range(num_changes):
-                i, j = np.random.choice(len(auto_picks), 2, replace=False)
-                auto_picks[i], auto_picks[j] = auto_picks[j], auto_picks[i]
-        
-        auto_score = sum(conf for game, conf in auto_picks if outcomes[game])
+        # Calculate optimized score
         optimized_score = sum(conf for game, conf in picks if outcomes[game])
-        
-        auto_pick_scores.append(auto_score)
         optimized_scores.append(optimized_score)
     
-    return auto_pick_scores, optimized_scores
+    return all_scores, optimized_scores
 
 def evaluate_strategy(optimized_picks, probabilities):
-    auto_pick_scores, optimized_scores = simulate_week(probabilities, optimized_picks)
+    all_scores, optimized_scores = simulate_week(probabilities, optimized_picks)
     
-    print(f"Average auto-pick score: {np.mean(auto_pick_scores):.2f}")
+    print(f"Average player score: {np.mean(all_scores):.2f}")
     print(f"Average optimized score: {np.mean(optimized_scores):.2f}")
-    print(f"Probability of beating auto-pick: {np.mean(np.array(optimized_scores) > np.array(auto_pick_scores)):.2f}")
-    print(f"Probability of top 3 finish: {np.mean(np.array(optimized_scores) >= np.sort(auto_pick_scores)[-3]):.2f}")
+    print(f"Probability of beating average player: {np.mean(np.array(optimized_scores) > np.mean(all_scores)):.2f}")
+    print(f"Probability of top 3 finish: {np.mean(np.array(optimized_scores) >= np.percentile(all_scores, 97)):.2f}")
 
 def main():
     df = preprocess_data('week1.csv')
