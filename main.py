@@ -15,7 +15,11 @@ def estimate_win_probabilities(df):
     return probabilities
 
 def optimize_picks(probabilities, num_games):
-    cost_matrix = np.outer(1 - probabilities, range(1, num_games + 1))
+    # Introduce some randomness to deviate from pure auto-pick
+    noise = np.random.normal(0, 0.05, len(probabilities))
+    adjusted_probs = np.clip(probabilities + noise, 0, 1)
+    
+    cost_matrix = np.outer(1 - adjusted_probs, range(1, num_games + 1))
     row_ind, col_ind = linear_sum_assignment(cost_matrix)
     optimized_picks = list(zip(row_ind, col_ind + 1))
     optimized_picks.sort(key=lambda x: x[1], reverse=True)
@@ -28,8 +32,17 @@ def simulate_week(probabilities, picks, num_simulations=10000):
     
     for _ in range(num_simulations):
         outcomes = np.random.random(num_games) < probabilities
+        
+        # Simulate auto-picks with random changes
         auto_picks = sorted(enumerate(probabilities), key=lambda x: x[1], reverse=True)
         auto_picks = [(game, num_games - i) for i, (game, _) in enumerate(auto_picks)]
+        
+        # Introduce random changes to auto-picks
+        if np.random.random() < 0.7:  # 70% chance of making changes
+            num_changes = np.random.randint(1, 4)  # Make 1-3 changes
+            for _ in range(num_changes):
+                i, j = np.random.choice(len(auto_picks), 2, replace=False)
+                auto_picks[i], auto_picks[j] = auto_picks[j], auto_picks[i]
         
         auto_score = sum(conf for game, conf in auto_picks if outcomes[game])
         optimized_score = sum(conf for game, conf in picks if outcomes[game])
