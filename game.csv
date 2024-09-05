@@ -1,0 +1,545 @@
+id,start_time,spread,over_under,is_finished,venue_name,venue_address,neutral_site,week_id
+401547353,2023-09-08T00:20:00+00:00,KC -3.5,51.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-1
+401547403,2023-09-10T17:00:00+00:00,ATL -3.5,39.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-1
+401547397,2023-09-10T17:00:00+00:00,CLE -2.5,46.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-1
+401547404,2023-09-10T17:00:00+00:00,JAX -3.5,44.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-1
+401547398,2023-09-10T17:00:00+00:00,MIN -4.5,43.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-1
+401547399,2023-09-10T17:00:00+00:00,NO -2.5,40.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-1
+401547405,2023-09-10T17:00:00+00:00,SF -1.5,40.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-1
+401547406,2023-09-10T17:00:00+00:00,WSH -6.5,37.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-1
+401547396,2023-09-10T17:00:00+00:00,BAL -9.5,42.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-1
+401547407,2023-09-10T20:25:00+00:00,CHI -2.5,40.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-1
+401547400,2023-09-10T20:25:00+00:00,DEN -2.5,42.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-1
+401547402,2023-09-10T20:25:00+00:00,PHI -3.5,43.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-1
+401547401,2023-09-10T20:25:00+00:00,LAC -3.5,49.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-1
+401547408,2023-09-10T20:25:00+00:00,SEA -5.5,44.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-1
+401547409,2023-09-11T00:20:00+00:00,DAL -3.5,44.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-1
+401547352,2023-09-12T00:15:00+00:00,BUF -2.5,44.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-1
+401547410,2023-09-15T00:15:00+00:00,PHI -6.5,48.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-2
+401547417,2023-09-17T17:00:00+00:00,ATL -2.5,39.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-2
+401547411,2023-09-17T17:00:00+00:00,BUF -7.5,45.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-2
+401547412,2023-09-17T17:00:00+00:00,CIN -3.5,44.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-2
+401547418,2023-09-17T17:00:00+00:00,DET -4.5,46.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-2
+401547414,2023-09-17T17:00:00+00:00,LAC -2.5,44.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-2
+401547420,2023-09-17T17:00:00+00:00,TB -2.5,39.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-2
+401547413,2023-09-17T17:00:00+00:00,KC -2.5,49.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-2
+401547419,2023-09-17T17:00:00+00:00,HOU -2.5,39.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-2
+401547422,2023-09-17T20:05:00+00:00,SF -7.5,44.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-2
+401547421,2023-09-17T20:05:00+00:00,NYG -4.5,39.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-2
+401547415,2023-09-17T20:25:00+00:00,DAL -8.5,37.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-2
+401547416,2023-09-17T20:25:00+00:00,DEN -3.5,38.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-2
+401547423,2023-09-18T00:20:00+00:00,NE -0.5,45.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-2
+401547425,2023-09-18T23:15:00+00:00,NO -3.5,39.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-2
+401547424,2023-09-19T00:15:00+00:00,CLE -2.5,39.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-2
+401547426,2023-09-22T00:15:00+00:00,SF -10.5,43.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-3
+401547428,2023-09-24T17:00:00+00:00,CLE -3.5,37.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-3
+401547433,2023-09-24T17:00:00+00:00,DET -2.5,47.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-3
+401547434,2023-09-24T17:00:00+00:00,NO -1.5,42.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-3
+401547429,2023-09-24T17:00:00+00:00,MIA -5.5,47.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-3
+401547436,2023-09-24T17:00:00+00:00,LAC -2.5,51.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-3
+401547430,2023-09-24T17:00:00+00:00,NE -2.5,34.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-3
+401547431,2023-09-24T17:00:00+00:00,BUF -5.5,43.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-3
+401547435,2023-09-24T17:00:00+00:00,JAX -7.5,42.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-3
+401547427,2023-09-24T17:00:00+00:00,BAL -7.5,42.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-3
+401547432,2023-09-24T20:05:00+00:00,SEA -5.5,43.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-3
+401547438,2023-09-24T20:25:00+00:00,KC -12.5,48.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-3
+401547437,2023-09-24T20:25:00+00:00,DAL -11.5,44.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-3
+401547439,2023-09-25T00:20:00+00:00,LV -2.5,42.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-3
+401547440,2023-09-25T23:15:00+00:00,PHI -4.5,43.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-3
+401547441,2023-09-26T00:15:00+00:00,CIN -2.5,45.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-3
+401547442,2023-09-29T00:15:00+00:00,DET -2.5,44.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-4
+401547227,2023-10-01T13:30:00+00:00,JAX -3.5,41.5,True,Wembley Stadium,London,True,nfl-2023-week-4
+401547443,2023-10-01T17:00:00+00:00,BUF -3.5,51.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-4
+401547444,2023-10-01T17:00:00+00:00,DEN -2.5,46.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-4
+401547445,2023-10-01T17:00:00+00:00,BAL -2.5,37.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-4
+401547452,2023-10-01T17:00:00+00:00,CIN -3.5,41.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-4
+401547449,2023-10-01T17:00:00+00:00,LAR -2.5,44.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-4
+401547450,2023-10-01T17:00:00+00:00,NO -4.5,40.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-4
+401547451,2023-10-01T17:00:00+00:00,PHI -8.5,40.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-4
+401547448,2023-10-01T17:00:00+00:00,MIN -4.5,45.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-4
+401547446,2023-10-01T17:00:00+00:00,PIT -2.5,40.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-4
+401547447,2023-10-01T20:05:00+00:00,LAC -7.5,47.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-4
+401547453,2023-10-01T20:25:00+00:00,DAL -5.5,43.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-4
+401547454,2023-10-01T20:25:00+00:00,SF -13.5,43.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-4
+401547455,2023-10-02T00:20:00+00:00,KC -8.5,41.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-4
+401547456,2023-10-03T00:15:00+00:00,SEA -1.5,45.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-4
+401547457,2023-10-06T00:15:00+00:00,WSH -4.5,44.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-5
+401547228,2023-10-08T13:30:00+00:00,BUF -5.5,48.5,True,Tottenham Hotspur Stadium,London,True,nfl-2023-week-5
+401547463,2023-10-08T17:00:00+00:00,ATL -2.5,41.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-5
+401547464,2023-10-08T17:00:00+00:00,DET -8.5,42.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-5
+401547458,2023-10-08T17:00:00+00:00,TEN -2.5,43.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-5
+401547465,2023-10-08T17:00:00+00:00,MIA -13.5,47.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-5
+401547459,2023-10-08T17:00:00+00:00,NE -1.5,37.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-5
+401547460,2023-10-08T17:00:00+00:00,BAL -4.5,37.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-5
+401547467,2023-10-08T20:05:00+00:00,PHI -3.5,49.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-5
+401547466,2023-10-08T20:05:00+00:00,CIN -3.5,45.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-5
+401547461,2023-10-08T20:25:00+00:00,DEN -2.5,42.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-5
+401547462,2023-10-08T20:25:00+00:00,KC -3.5,51.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-5
+401547354,2023-10-09T00:20:00+00:00,SF -3.5,44.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-5
+401547468,2023-10-10T00:15:00+00:00,LV -1.5,44.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-5
+401547469,2023-10-13T00:15:00+00:00,KC -9.5,48.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-6
+401547229,2023-10-15T13:30:00+00:00,BAL -5.5,41.5,True,Tottenham Hotspur Stadium,London,True,nfl-2023-week-6
+401547470,2023-10-15T17:00:00+00:00,ATL -2.5,41.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-6
+401547475,2023-10-15T17:00:00+00:00,MIN -3.5,43.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-6
+401547471,2023-10-15T17:00:00+00:00,CIN -1.5,45.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-6
+401547476,2023-10-15T17:00:00+00:00,SF -9.5,35.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-6
+401547473,2023-10-15T17:00:00+00:00,MIA -13.5,46.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-6
+401547472,2023-10-15T17:00:00+00:00,JAX -3.5,43.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-6
+401547477,2023-10-15T17:00:00+00:00,NO -2.5,41.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-6
+401547474,2023-10-15T20:05:00+00:00,LV -3.5,40.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-6
+401547479,2023-10-15T20:25:00+00:00,LAR -7.5,47.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-6
+401547480,2023-10-15T20:25:00+00:00,PHI -5.5,41.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-6
+401547478,2023-10-15T20:25:00+00:00,DET -3.5,42.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-6
+401547481,2023-10-16T00:20:00+00:00,BUF -15.5,42.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-6
+401547482,2023-10-17T00:15:00+00:00,DAL -1.5,49.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-6
+401547483,2023-10-20T00:15:00+00:00,NO -1.5,40.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-7
+401547490,2023-10-22T17:00:00+00:00,LV -1.5,37.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-7
+401547484,2023-10-22T17:00:00+00:00,CLE -3.5,40.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-7
+401547485,2023-10-22T17:00:00+00:00,BUF -7.5,39.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-7
+401547486,2023-10-22T17:00:00+00:00,WSH -3.5,36.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-7
+401547491,2023-10-22T17:00:00+00:00,TB -2.5,37.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-7
+401547489,2023-10-22T17:00:00+00:00,BAL -3.5,43.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-7
+401547492,2023-10-22T20:05:00+00:00,LAR -3.5,43.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-7
+401547493,2023-10-22T20:05:00+00:00,SEA -9.5,43.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-7
+401547487,2023-10-22T20:25:00+00:00,DEN -2.5,43.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-7
+401547488,2023-10-22T20:25:00+00:00,KC -5.5,47.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-7
+401547494,2023-10-23T00:20:00+00:00,PHI -3.5,51.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-7
+401547495,2023-10-24T00:15:00+00:00,SF -6.5,44.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-7
+401547496,2023-10-27T00:15:00+00:00,BUF -9.5,42.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-8
+401547505,2023-10-29T17:00:00+00:00,DAL -7.5,44.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-8
+401547506,2023-10-29T17:00:00+00:00,GB -0.5,40.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-8
+401547500,2023-10-29T17:00:00+00:00,ATL -1.5,34.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-8
+401547507,2023-10-29T17:00:00+00:00,NO -2.5,43.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-8
+401547497,2023-10-29T17:00:00+00:00,MIA -7.5,45.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-8
+401547498,2023-10-29T17:00:00+00:00,NYJ -3.5,33.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-8
+401547499,2023-10-29T17:00:00+00:00,JAX -2.5,42.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-8
+401547508,2023-10-29T17:00:00+00:00,PHI -7.5,42.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-8
+401547504,2023-10-29T17:00:00+00:00,HOU -3.5,41.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-8
+401547509,2023-10-29T20:05:00+00:00,SEA -3.5,39.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-8
+401547502,2023-10-29T20:25:00+00:00,KC -7.5,45.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-8
+401547501,2023-10-29T20:25:00+00:00,BAL -10.5,43.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-8
+401547503,2023-10-29T20:25:00+00:00,SF -4.5,43.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-8
+401547510,2023-10-30T00:20:00+00:00,LAC -9.5,44.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-8
+401547511,2023-10-31T00:15:00+00:00,DET -6.5,44.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-8
+401547512,2023-11-03T00:15:00+00:00,PIT -3.5,36.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-9
+401547230,2023-11-05T14:30:00+00:00,KC -1.5,50.5,True,Frankfurt Stadium,Frankfurt,True,nfl-2023-week-9
+401547518,2023-11-05T18:00:00+00:00,ATL -3.5,38.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-9
+401547514,2023-11-05T18:00:00+00:00,CLE -13.5,38.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-9
+401547519,2023-11-05T18:00:00+00:00,GB -3.5,38.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-9
+401547520,2023-11-05T18:00:00+00:00,NE -2.5,40.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-9
+401547516,2023-11-05T18:00:00+00:00,NO -10.5,42.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-9
+401547513,2023-11-05T18:00:00+00:00,BAL -5.5,44.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-9
+401547515,2023-11-05T18:00:00+00:00,HOU -2.5,40.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-9
+401547517,2023-11-05T21:05:00+00:00,IND -1.5,45.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-9
+401547521,2023-11-05T21:25:00+00:00,LV -1.5,37.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-9
+401547522,2023-11-05T21:25:00+00:00,PHI -3.5,46.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-9
+401547523,2023-11-06T01:20:00+00:00,CIN -1.5,51.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-9
+401547524,2023-11-07T01:15:00+00:00,LAC -3.5,41.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-9
+401547525,2023-11-10T01:15:00+00:00,CHI -3.5,39.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-10
+401547231,2023-11-12T14:30:00+00:00,IND -2,42.5,True,Frankfurt Stadium,Frankfurt,True,nfl-2023-week-10
+401547526,2023-11-12T18:00:00+00:00,CIN -5.5,45.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-10
+401547533,2023-11-12T18:00:00+00:00,NO -2.5,41.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-10
+401547527,2023-11-12T18:00:00+00:00,PIT -3.5,37.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-10
+401547528,2023-11-12T18:00:00+00:00,TB -2.5,39.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-10
+401547532,2023-11-12T18:00:00+00:00,SF -3.5,44.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-10
+401547531,2023-11-12T18:00:00+00:00,BAL -6.5,38.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-10
+401547529,2023-11-12T21:05:00+00:00,ATL -2.5,43.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-10
+401547530,2023-11-12T21:05:00+00:00,DET -2.5,49.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-10
+401547534,2023-11-12T21:25:00+00:00,DAL -17.5,39.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-10
+401547535,2023-11-12T21:25:00+00:00,SEA -5.5,43.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-10
+401547536,2023-11-13T01:20:00+00:00,NYJ -1.5,35.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-10
+401547537,2023-11-14T01:15:00+00:00,BUF -7.5,47.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-10
+401547538,2023-11-17T01:15:00+00:00,BAL -4.5,45.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-11
+401547539,2023-11-19T18:00:00+00:00,CLE -2.5,34.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-11
+401547546,2023-11-19T18:00:00+00:00,DET -7.5,47.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-11
+401547547,2023-11-19T18:00:00+00:00,LAC -2.5,44.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-11
+401547542,2023-11-19T18:00:00+00:00,MIA -14.5,44.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-11
+401547548,2023-11-19T18:00:00+00:00,WSH -7.5,39.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-11
+401547545,2023-11-19T18:00:00+00:00,DAL -10.5,43.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-11
+401547541,2023-11-19T18:00:00+00:00,JAX -6.5,40.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-11
+401547540,2023-11-19T18:00:00+00:00,HOU -5.5,48.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-11
+401547549,2023-11-19T21:05:00+00:00,SF -13.5,42.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-11
+401547543,2023-11-19T21:25:00+00:00,BUF -8.5,39.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-11
+401547544,2023-11-19T21:25:00+00:00,LAR -2.5,44.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-11
+401547550,2023-11-20T01:20:00+00:00,DEN -2.5,42.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-11
+401547345,2023-11-21T01:15:00+00:00,KC -2.5,45.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-11
+401547552,2023-11-23T17:30:00+00:00,DET -8.5,47.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-12
+401547551,2023-11-23T21:30:00+00:00,DAL -13.5,48.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-12
+401547553,2023-11-24T01:20:00+00:00,SF -7.5,43.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-12
+401547242,2023-11-24T20:00:00+00:00,MIA -9.5,40.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-12
+401547559,2023-11-26T18:00:00+00:00,NO -1.5,42.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-12
+401547554,2023-11-26T18:00:00+00:00,PIT -2.5,36.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-12
+401547561,2023-11-26T18:00:00+00:00,TEN -3.5,36.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-12
+401547556,2023-11-26T18:00:00+00:00,IND -2.5,44.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-12
+401547560,2023-11-26T18:00:00+00:00,NE -4.5,34.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-12
+401547555,2023-11-26T18:00:00+00:00,JAX -1.5,47.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-12
+401547563,2023-11-26T21:05:00+00:00,DEN -1.5,37.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-12
+401547562,2023-11-26T21:05:00+00:00,LAR -3.5,45.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-12
+401547557,2023-11-26T21:25:00+00:00,KC -9.5,42.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-12
+401547558,2023-11-26T21:25:00+00:00,PHI -2.5,48.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-12
+401547564,2023-11-27T01:20:00+00:00,BAL -3.5,49.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-12
+401547565,2023-11-28T01:15:00+00:00,MIN -3.5,43.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-12
+401547566,2023-12-01T01:15:00+00:00,DAL -9.5,47.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-13
+401547570,2023-12-03T18:00:00+00:00,IND -1.5,42.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-13
+401547567,2023-12-03T18:00:00+00:00,LAC -4.5,38.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-13
+401547572,2023-12-03T18:00:00+00:00,DET -3.5,48.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-13
+401547573,2023-12-03T18:00:00+00:00,ATL -2.5,34.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-13
+401547568,2023-12-03T18:00:00+00:00,PIT -6.5,40.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-13
+401547574,2023-12-03T18:00:00+00:00,MIA -8.5,49.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-13
+401547571,2023-12-03T18:00:00+00:00,HOU -3.5,47.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-13
+401547569,2023-12-03T21:05:00+00:00,TB -3.5,37.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-13
+401547575,2023-12-03T21:25:00+00:00,LAR -3.5,39.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-13
+401547276,2023-12-03T21:25:00+00:00,SF -3.5,47.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-13
+401547576,2023-12-04T01:20:00+00:00,KC -5.5,43.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-13
+401547577,2023-12-05T01:15:00+00:00,JAX -10,41.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-13
+401547578,2023-12-08T01:15:00+00:00,PIT -5.5,30.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-14
+401547579,2023-12-10T18:00:00+00:00,ATL -2.5,41.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-14
+401547586,2023-12-10T18:00:00+00:00,DET -3.5,44.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-14
+401547580,2023-12-10T18:00:00+00:00,CIN -2.5,45.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-14
+401547581,2023-12-10T18:00:00+00:00,CLE -2.5,36.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-14
+401547587,2023-12-10T18:00:00+00:00,NO -5.5,39.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-14
+401547582,2023-12-10T18:00:00+00:00,HOU -3.5,33.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-14
+401547585,2023-12-10T18:00:00+00:00,BAL -7.5,42.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-14
+401547588,2023-12-10T21:05:00+00:00,MIN -3.5,40.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-14
+401547589,2023-12-10T21:05:00+00:00,SF -14.5,44.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-14
+401547583,2023-12-10T21:25:00+00:00,KC -1.5,49.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-14
+401547584,2023-12-10T21:25:00+00:00,LAC -3.5,45.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-14
+401547590,2023-12-11T01:20:00+00:00,DAL -3.5,52.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-14
+401547592,2023-12-12T01:15:00+00:00,MIA -13.5,44.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-14
+401547591,2023-12-12T01:15:00+00:00,GB -5.5,37.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-14
+401547593,2023-12-15T01:15:00+00:00,LV -3.5,36.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-15
+401547604,2023-12-16T18:00:00+00:00,CIN -3.5,41.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-15
+401547607,2023-12-16T21:30:00+00:00,IND -1.5,41.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-15
+401547606,2023-12-17T01:15:00+00:00,DET -5.5,49.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-15
+401547605,2023-12-17T18:00:00+00:00,CLE -2.5,37.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-15
+401547598,2023-12-17T18:00:00+00:00,GB -3.5,41.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-15
+401547595,2023-12-17T18:00:00+00:00,TEN -3.5,38.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-15
+401547594,2023-12-17T18:00:00+00:00,MIA -7.5,36.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-15
+401547608,2023-12-17T18:00:00+00:00,KC -10.5,39.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-15
+401547599,2023-12-17T18:00:00+00:00,NO -6.5,39.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-15
+401547603,2023-12-17T18:00:00+00:00,ATL -2.5,32.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-15
+401547597,2023-12-17T21:05:00+00:00,LAR -6.5,48.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-15
+401547596,2023-12-17T21:05:00+00:00,SF -13.5,48.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-15
+401547600,2023-12-17T21:25:00+00:00,BUF -2.5,49.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-15
+401547602,2023-12-18T01:20:00+00:00,BAL -4,41.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-15
+401547601,2023-12-19T01:15:00+00:00,PHI -4.5,47.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-15
+401547609,2023-12-22T01:15:00+00:00,LAR -4.5,46.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-16
+401547610,2023-12-23T21:30:00+00:00,CIN -2.5,39.5,True,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2023-week-16
+401547611,2023-12-24T01:00:00+00:00,BUF -12.5,45.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-16
+401547616,2023-12-24T18:00:00+00:00,ATL -2.5,44.5,True,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2023-week-16
+401547614,2023-12-24T18:00:00+00:00,SEA -2.5,42.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-16
+401547618,2023-12-24T18:00:00+00:00,DET -2.5,47.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-16
+401547613,2023-12-24T18:00:00+00:00,NYJ -2.5,36.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-16
+401547617,2023-12-24T18:00:00+00:00,GB -3.5,39.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-16
+401547612,2023-12-24T18:00:00+00:00,CLE -3.5,39.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-16
+401547615,2023-12-24T21:05:00+00:00,JAX -1.5,43.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-16
+401547619,2023-12-24T21:25:00+00:00,CHI -5.5,42.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-16
+401547620,2023-12-24T21:25:00+00:00,MIA -1.5,49.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-16
+401547621,2023-12-25T01:15:00+00:00,DEN -7.5,37.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-16
+401547351,2023-12-25T18:00:00+00:00,KC -11.5,40.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-16
+401547241,2023-12-25T21:30:00+00:00,PHI -13.5,41.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-16
+401547622,2023-12-26T01:15:00+00:00,SF -6.5,47.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-16
+401547623,2023-12-29T01:15:00+00:00,CLE -6.5,33.5,True,Cleveland Browns Stadium,"Cleveland, OH",False,nfl-2023-week-17
+401547624,2023-12-31T01:15:00+00:00,DAL -4.5,52.5,True,AT&T Stadium,"Arlington, TX",False,nfl-2023-week-17
+401547626,2023-12-31T18:00:00+00:00,BUF -15.5,40.5,True,Highmark Stadium,"Orchard Park, NY",False,nfl-2023-week-17
+401547627,2023-12-31T18:00:00+00:00,CHI -2.5,39.5,True,Soldier Field,"Chicago, IL",False,nfl-2023-week-17
+401547628,2023-12-31T18:00:00+00:00,IND -3.5,42.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-17
+401547632,2023-12-31T18:00:00+00:00,LAR -6.5,42.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-17
+401547633,2023-12-31T18:00:00+00:00,PHI -12.5,47.5,True,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2023-week-17
+401547634,2023-12-31T18:00:00+00:00,TB -2.5,42.5,True,Raymond James Stadium,"Tampa, FL",False,nfl-2023-week-17
+401547635,2023-12-31T18:00:00+00:00,SF -14.5,49.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-17
+401547629,2023-12-31T18:00:00+00:00,JAX -3.5,37.5,True,EverBank Stadium,"Jacksonville, FL",False,nfl-2023-week-17
+401547625,2023-12-31T18:00:00+00:00,BAL -3.5,47.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-17
+401547631,2023-12-31T18:00:00+00:00,HOU -5.5,43.5,True,NRG Stadium,"Houston, TX",False,nfl-2023-week-17
+401547636,2023-12-31T21:05:00+00:00,SEA -4.5,40.5,True,Lumen Field,"Seattle, WA",False,nfl-2023-week-17
+401547630,2023-12-31T21:25:00+00:00,DEN -3.5,38.5,True,Empower Field at Mile High,"Denver, CO",False,nfl-2023-week-17
+401547235,2023-12-31T21:25:00+00:00,KC -7.5,45.5,True,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2023-week-17
+401547637,2024-01-01T01:20:00+00:00,GB -0.5,42.5,True,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2023-week-17
+401547639,2024-01-06T21:30:00+00:00,PIT -3.5,34.5,True,M&T Bank Stadium,"Baltimore, MD",False,nfl-2023-week-18
+401547644,2024-01-07T01:15:00+00:00,HOU -1.5,47.5,True,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2023-week-18
+401547641,2024-01-07T18:00:00+00:00,CIN -7.5,37.5,True,Paycor Stadium,"Cincinnati, OH",False,nfl-2023-week-18
+401547642,2024-01-07T18:00:00+00:00,DET -3.5,47.5,True,Ford Field,"Detroit, MI",False,nfl-2023-week-18
+401547652,2024-01-07T18:00:00+00:00,JAX -3.5,41.5,True,Nissan Stadium,"Nashville, TN",False,nfl-2023-week-18
+401547648,2024-01-07T18:00:00+00:00,NE -2.5,28.5,True,Gillette Stadium,"Foxborough, MA",False,nfl-2023-week-18
+401547649,2024-01-07T18:00:00+00:00,NO -3.5,41.5,True,Caesars Superdome,"New Orleans, LA",False,nfl-2023-week-18
+401547640,2024-01-07T18:00:00+00:00,TB -5.5,36.5,True,Bank of America Stadium,"Charlotte, NC",False,nfl-2023-week-18
+401547643,2024-01-07T21:25:00+00:00,GB -2.5,45.5,True,Lambeau Field,"Green Bay, WI",False,nfl-2023-week-18
+401547646,2024-01-07T21:25:00+00:00,LV -3.5,37.5,True,Allegiant Stadium,"Las Vegas, NV",False,nfl-2023-week-18
+401547650,2024-01-07T21:25:00+00:00,PHI -4.5,43.5,True,MetLife Stadium,"East Rutherford, NJ",False,nfl-2023-week-18
+401547638,2024-01-07T21:25:00+00:00,SEA -2.5,48.5,True,State Farm Stadium,"Glendale, AZ",False,nfl-2023-week-18
+401547645,2024-01-07T21:25:00+00:00,LAC -3.5,36.5,True,SoFi Stadium,"Inglewood, CA",False,nfl-2023-week-18
+401547651,2024-01-07T21:25:00+00:00,SF -5.5,40.5,True,Levi's Stadium,"Santa Clara, CA",False,nfl-2023-week-18
+401547653,2024-01-07T21:25:00+00:00,DAL -13.5,46.5,True,Commanders Field,"Landover, MD",False,nfl-2023-week-18
+401547647,2024-01-08T01:20:00+00:00,BUF -2.5,48.5,True,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2023-week-18
+401671664,2024-09-08T20:05:00+00:00,SEA -6,41.5,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-1
+401671761,2024-09-08T20:25:00+00:00,CLE -2.5,40.5,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-1
+401671770,2024-09-08T20:25:00+00:00,TB -3.5,43.5,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-1
+401671792,2024-09-09T00:20:00+00:00,DET -3.5,50.5,False,Ford Field,"Detroit, MI",False,nfl-2024-week-1
+401671696,2024-09-10T00:20:00+00:00,SF -4.5,43.5,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-1
+401671815,2024-10-04T00:15:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-5
+401671816,2024-10-18T00:15:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-7
+401671801,2024-10-20T13:30:00+00:00,JAX -6.5,41.5,False,Wembley Stadium,London,True,nfl-2024-week-7
+401671730,2024-10-20T17:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-7
+401671616,2024-10-20T17:00:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-7
+401671776,2024-11-03T21:25:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-9
+401671797,2024-11-04T01:20:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-9
+401671688,2024-11-05T01:15:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-9
+401671810,2024-11-08T01:15:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-10
+401671803,2024-11-10T14:30:00+00:00,NYG -1.5,42.5,False,Allianz Arena,Munich,True,nfl-2024-week-10
+401671873,2024-11-10T18:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-10
+401671863,2024-11-10T18:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-10
+401671637,2024-11-10T18:00:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-10
+401671733,2024-11-10T18:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-10
+401671742,2024-11-10T18:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-10
+401671846,2024-12-29T05:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-17
+401671842,2024-12-29T05:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-17
+401671495,2024-12-29T18:00:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-17
+401671725,2024-12-29T18:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-17
+401671738,2024-12-29T18:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-17
+401671641,2024-11-10T18:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-10
+401671708,2024-11-10T18:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-10
+401671751,2024-11-10T21:05:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-10
+401671676,2024-11-10T21:25:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-10
+401671678,2024-11-10T21:25:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-10
+401671789,2024-09-06T00:20:00+00:00,KC -3,47.5,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-1
+401671805,2024-09-07T00:15:00+00:00,PHI -2.5,49.5,False,Corinthians Arena,Sao Paulo,True,nfl-2024-week-1
+401671744,2024-09-08T17:00:00+00:00,ATL -3.5,41.5,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-1
+401671617,2024-09-08T17:00:00+00:00,BUF -6.5,48.5,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-1
+401671719,2024-09-08T17:00:00+00:00,CHI -4,44.5,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-1
+401671709,2024-09-15T17:00:00+00:00,DAL -6,44.5,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-2
+401671721,2024-09-15T17:00:00+00:00,DET -6.5,48.5,False,Ford Field,"Detroit, MI",False,nfl-2024-week-2
+401671723,2024-09-15T17:00:00+00:00,GB -4,47.5,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-2
+401671636,2024-09-15T17:00:00+00:00,NYJ -3.5,43.5,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-2
+401671645,2024-09-15T17:00:00+00:00,SF -6.5,46.5,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-2
+401671702,2024-09-15T17:00:00+00:00,SEA -3,40.5,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-2
+401671716,2024-09-15T17:00:00+00:00,WSH -2.5,41.5,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-2
+401671652,2024-09-15T17:00:00+00:00,LAC -3,41.5,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-2
+401671635,2024-09-15T17:00:00+00:00,JAX -2.5,44.5,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-2
+401671624,2024-09-15T17:00:00+00:00,BAL -7.5,44.5,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-2
+401671853,2024-10-20T17:00:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-7
+401671644,2024-10-20T17:00:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-7
+401671864,2024-10-20T17:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-7
+401671724,2024-10-20T17:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-7
+401671710,2024-10-20T17:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-7
+401671623,2024-11-03T18:00:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-9
+401671661,2024-11-03T21:05:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-9
+401671767,2024-11-03T21:25:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-9
+401671787,2024-11-11T01:20:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-10
+401671693,2024-11-12T01:15:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-10
+401671663,2024-10-20T20:05:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-7
+401671640,2024-10-20T20:05:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-7
+401671777,2024-10-20T20:25:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-7
+401671785,2024-10-21T00:20:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-7
+401671695,2024-10-22T00:15:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-7
+401671699,2024-10-22T01:00:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-7
+401671817,2024-10-25T00:15:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-8
+401671813,2024-11-15T01:15:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-11
+401671869,2024-11-17T18:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-11
+401671814,2024-12-06T01:15:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-14
+401671821,2024-12-08T18:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-14
+401671848,2024-12-08T18:00:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-14
+401671754,2024-09-15T20:05:00+00:00,LAR -2.5,48.5,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-2
+401671668,2024-09-15T20:25:00+00:00,PIT -2.5,40.5,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-2
+401671670,2024-09-15T20:25:00+00:00,KC -3.5,48.5,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-2
+401671786,2024-09-16T00:20:00+00:00,HOU -3.5,46.5,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-2
+401671691,2024-09-17T00:15:00+00:00,PHI -4,48.5,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-2
+401671808,2024-09-20T00:15:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-3
+401671855,2024-09-22T17:00:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-3
+401671823,2024-09-22T17:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-3
+401671865,2024-09-22T17:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-3
+401671646,2024-09-22T17:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-3
+401671736,2024-09-22T17:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-3
+401671632,2024-09-22T17:00:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-3
+401671741,2024-09-22T17:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-3
+401671658,2024-09-22T20:05:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-3
+401671662,2024-09-22T20:05:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-3
+401671763,2024-09-22T20:25:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-3
+401671772,2024-09-22T20:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-3
+401671771,2024-09-22T20:25:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-3
+401671793,2024-09-23T00:20:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-3
+401671682,2024-09-23T23:30:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-3
+401671490,2024-09-24T00:15:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-3
+401671812,2024-09-27T00:15:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-4
+401671727,2024-09-29T17:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-4
+401671871,2024-09-29T17:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-4
+401671643,2024-09-29T17:00:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-4
+401671867,2024-09-29T17:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-4
+401671622,2024-09-29T17:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-4
+401671740,2024-09-29T17:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-4
+401671745,2024-09-29T17:00:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-4
+401671857,2024-09-29T17:00:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-4
+401671755,2024-09-29T20:05:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-4
+401671758,2024-09-29T20:05:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-4
+401671672,2024-09-29T20:25:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-4
+401671674,2024-09-29T20:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-4
+401671783,2024-09-30T00:20:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-4
+401671683,2024-09-30T23:30:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-4
+401671491,2024-10-01T00:15:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-4
+401671804,2024-10-06T13:30:00+00:00,NYJ -3.5,43.5,False,Tottenham Hotspur Stadium,London,True,nfl-2024-week-5
+401671872,2024-10-06T17:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-5
+401671626,2024-10-06T17:00:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-5
+401671700,2024-10-06T17:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-5
+401671718,2024-10-06T17:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-5
+401671633,2024-10-06T17:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-5
+401671859,2024-10-06T17:00:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-5
+401671747,2024-10-06T20:05:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-5
+401671756,2024-10-06T20:05:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-5
+401671679,2024-10-06T20:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-5
+401671680,2024-10-06T20:25:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-5
+401671784,2024-10-07T00:20:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-5
+401671687,2024-10-08T00:15:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-5
+401671819,2024-10-11T00:15:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-6
+401671802,2024-10-13T13:30:00+00:00,JAX -1,46.5,False,Tottenham Hotspur Stadium,London,True,nfl-2024-week-6
+401671722,2024-10-13T17:00:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-6
+401671820,2024-10-13T17:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-6
+401671619,2024-10-13T17:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-6
+401671735,2024-10-13T17:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-6
+401671714,2024-10-13T17:00:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-6
+401671625,2024-10-13T17:00:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-6
+401671655,2024-10-13T20:05:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-6
+401671657,2024-10-13T20:05:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-6
+401671764,2024-10-13T20:25:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-6
+401671769,2024-10-13T20:25:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-6
+401671791,2024-10-14T00:20:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-6
+401671684,2024-10-15T00:15:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-6
+401671648,2024-12-08T18:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-14
+401671796,2024-12-16T01:20:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-15
+401671489,2024-12-17T01:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-15
+401671697,2024-12-17T01:30:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-15
+401671811,2024-12-20T01:15:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-16
+401671780,2024-12-21T18:00:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-16
+401671778,2024-12-21T21:30:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-16
+401671729,2024-12-22T18:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-16
+401671494,2024-12-22T18:00:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-16
+401671868,2024-12-22T18:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-16
+401671862,2024-12-22T18:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-16
+401671621,2024-12-22T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-16
+401671717,2024-12-22T18:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-16
+401671732,2024-12-22T18:00:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-16
+401671749,2024-12-22T21:05:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-16
+401671852,2024-10-27T17:00:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-8
+401671720,2024-10-27T17:00:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-8
+401671850,2024-10-27T17:00:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-8
+401671618,2024-10-27T17:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-8
+401671739,2024-10-27T17:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-8
+401671599,2024-10-27T17:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-8
+401671707,2024-10-27T17:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-8
+401671856,2024-10-27T17:00:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-8
+401671750,2024-10-27T20:05:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-8
+401671760,2024-10-27T20:05:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-8
+401671667,2024-10-27T20:25:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-8
+401671600,2024-10-27T20:25:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-8
+401671671,2024-10-27T20:25:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-8
+401671795,2024-10-28T00:20:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-8
+401671685,2024-10-29T00:15:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-8
+401671809,2024-11-01T00:15:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-9
+401671728,2024-11-03T18:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-9
+401671493,2024-11-03T18:00:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-9
+401671704,2024-11-03T18:00:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-9
+401671629,2024-11-03T18:00:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-9
+401671822,2024-11-03T18:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-9
+401671647,2024-11-03T18:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-9
+401671711,2024-11-03T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-9
+401671650,2024-11-03T18:00:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-9
+401671759,2024-12-22T21:05:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-16
+401671673,2024-12-22T21:25:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-16
+401671874,2024-12-22T21:25:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-16
+401671790,2024-12-23T01:20:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-16
+401671692,2024-12-24T01:15:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-16
+401671799,2024-12-25T18:00:00+00:00,KC -5.5,41.5,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-17
+401671800,2024-12-25T21:30:00+00:00,BAL -2,46.5,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-17
+401671876,2024-12-27T01:15:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-17
+401671835,2024-12-29T05:00:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-17
+401671829,2024-12-29T05:00:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-17
+401671832,2024-12-29T05:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-17
+401671653,2024-12-29T18:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-17
+401671634,2024-12-29T18:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-17
+401671765,2024-12-29T21:25:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-17
+401671877,2024-12-30T01:20:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-17
+401671698,2024-12-31T01:15:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-17
+401671827,2025-01-05T05:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-18
+401671840,2025-01-05T05:00:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-18
+401671838,2025-01-05T05:00:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-18
+401671843,2025-01-05T05:00:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-18
+401671844,2025-01-05T05:00:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-18
+401671826,2025-01-05T05:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-18
+401671628,2024-09-08T17:00:00+00:00,CIN -8.5,40.5,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-1
+401671861,2024-09-08T17:00:00+00:00,HOU -3,48.5,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-1
+401671849,2024-09-08T17:00:00+00:00,MIA -3.5,48.5,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-1
+401671734,2024-09-08T17:00:00+00:00,NO -4,41.5,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-1
+401671712,2024-09-08T17:00:00+00:00,MIN -1.5,41.5,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-1
+401671659,2024-09-08T20:05:00+00:00,LAC -3,40.5,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-1
+401671807,2024-09-13T00:15:00+00:00,MIA -1,50.5,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-2
+401671642,2024-11-17T18:00:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-11
+401671824,2024-11-17T18:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-11
+401671851,2024-11-17T18:00:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-11
+401671701,2024-11-17T18:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-11
+401671746,2024-11-17T18:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-11
+401671630,2024-11-17T18:00:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-11
+401671748,2024-11-17T21:05:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-11
+401671858,2024-11-24T18:00:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-12
+401671837,2025-01-05T05:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-18
+401671839,2025-01-05T05:00:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-18
+401671830,2025-01-05T05:00:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-18
+401671831,2025-01-05T05:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-18
+401671833,2025-01-05T05:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-18
+401671841,2025-01-05T05:00:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-18
+401671845,2025-01-05T05:00:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-18
+401671836,2025-01-05T05:00:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-18
+401671828,2025-01-05T05:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-18
+401671834,2025-01-05T05:00:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-18
+401671757,2024-11-17T21:05:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-11
+401671665,2024-11-17T21:25:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-11
+401671675,2024-11-17T21:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-11
+401671782,2024-11-18T01:20:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-11
+401671694,2024-11-19T01:15:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-11
+401671875,2024-11-22T01:15:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-12
+401671870,2024-11-24T18:00:00+00:00,,,False,Soldier Field,"Chicago, IL",False,nfl-2024-week-12
+401671866,2024-11-24T18:00:00+00:00,,,False,Lucas Oil Stadium,"Indianapolis, IN",False,nfl-2024-week-12
+401671847,2024-11-24T18:00:00+00:00,,,False,Hard Rock Stadium,"Miami Gardens, FL",False,nfl-2024-week-12
+401671638,2024-11-24T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-12
+401671715,2024-11-24T18:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-12
+401671651,2024-11-24T18:00:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-12
+401671656,2024-11-24T21:05:00+00:00,,,False,Allegiant Stadium,"Las Vegas, NV",False,nfl-2024-week-12
+401671768,2024-11-24T21:25:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-12
+401671775,2024-11-24T21:25:00+00:00,,,False,Lumen Field,"Seattle, WA",False,nfl-2024-week-12
+401671794,2024-11-25T01:20:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-12
+401671689,2024-11-26T01:15:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-12
+401671492,2024-11-28T17:30:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-13
+401671779,2024-11-28T21:30:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-13
+401671798,2024-11-29T01:20:00+00:00,,,False,Lambeau Field,"Green Bay, WI",False,nfl-2024-week-13
+401671806,2024-11-29T20:00:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-13
+401671649,2024-12-01T18:00:00+00:00,,,False,Mercedes-Benz Stadium,"Atlanta, GA",False,nfl-2024-week-13
+401671627,2024-12-01T18:00:00+00:00,,,False,Paycor Stadium,"Cincinnati, OH",False,nfl-2024-week-13
+401671726,2024-12-01T18:00:00+00:00,,,False,U.S. Bank Stadium,"Minneapolis, MN",False,nfl-2024-week-13
+401671620,2024-12-01T18:00:00+00:00,,,False,Gillette Stadium,"Foxborough, MA",False,nfl-2024-week-13
+401671703,2024-12-01T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-13
+401671743,2024-12-01T18:00:00+00:00,,,False,Northwest Stadium,"Landover, MD",False,nfl-2024-week-13
+401671705,2024-12-01T18:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-13
+401671753,2024-12-01T21:05:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-13
+401671752,2024-12-01T21:05:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-13
+401671666,2024-12-01T21:25:00+00:00,,,False,M&T Bank Stadium,"Baltimore, MD",False,nfl-2024-week-13
+401671781,2024-12-02T01:20:00+00:00,,,False,Highmark Stadium,"Orchard Park, NY",False,nfl-2024-week-13
+401671686,2024-12-03T01:15:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-13
+401671601,2024-12-08T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-14
+401671713,2024-12-08T18:00:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-14
+401671631,2024-12-08T18:00:00+00:00,,,False,Acrisure Stadium,"Pittsburgh, PA",False,nfl-2024-week-14
+401671654,2024-12-08T18:00:00+00:00,,,False,Raymond James Stadium,"Tampa, FL",False,nfl-2024-week-14
+401671660,2024-12-08T21:05:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-14
+401671773,2024-12-08T21:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-14
+401671774,2024-12-08T21:25:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-14
+401671788,2024-12-09T01:20:00+00:00,,,False,GEHA Field at Arrowhead Stadium,"Kansas City, MO",False,nfl-2024-week-14
+401671690,2024-12-10T01:15:00+00:00,,,False,AT&T Stadium,"Arlington, TX",False,nfl-2024-week-14
+401671818,2024-12-13T01:15:00+00:00,,,False,Levi's Stadium,"Santa Clara, CA",False,nfl-2024-week-15
+401671854,2024-12-15T18:00:00+00:00,,,False,Huntington Bank Field,"Cleveland, OH",False,nfl-2024-week-15
+401671825,2024-12-15T18:00:00+00:00,,,False,Nissan Stadium,"Nashville, TN",False,nfl-2024-week-15
+401671737,2024-12-15T18:00:00+00:00,,,False,Caesars Superdome,"New Orleans, LA",False,nfl-2024-week-15
+401671639,2024-12-15T18:00:00+00:00,,,False,MetLife Stadium,"East Rutherford, NJ",False,nfl-2024-week-15
+401671731,2024-12-15T18:00:00+00:00,,,False,Bank of America Stadium,"Charlotte, NC",False,nfl-2024-week-15
+401671706,2024-12-15T18:00:00+00:00,,,False,EverBank Stadium,"Jacksonville, FL",False,nfl-2024-week-15
+401671860,2024-12-15T18:00:00+00:00,,,False,NRG Stadium,"Houston, TX",False,nfl-2024-week-15
+401671669,2024-12-15T21:25:00+00:00,,,False,Empower Field at Mile High,"Denver, CO",False,nfl-2024-week-15
+401671681,2024-12-15T21:25:00+00:00,,,False,Ford Field,"Detroit, MI",False,nfl-2024-week-15
+401671766,2024-12-15T21:25:00+00:00,,,False,Lincoln Financial Field,"Philadelphia, PA",False,nfl-2024-week-15
+401671677,2024-12-15T21:25:00+00:00,,,False,State Farm Stadium,"Glendale, AZ",False,nfl-2024-week-15
+401671762,2024-12-15T21:25:00+00:00,,,False,SoFi Stadium,"Inglewood, CA",False,nfl-2024-week-15
